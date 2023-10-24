@@ -29,14 +29,12 @@ I am Roberto Della Rocca, currently pursuing my master's degree in Artificial In
 
 \*-tools: <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
 <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=F7DF1E%22" height="25px"/>
-<img alt="WHM" src="https://img.shields.io/badge/WHM-white?style=for-the-badge&logo=cpanel" height="25px" />
 <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-blue?style=for-the-badge&logo=virtualbox" height="25px" />
 <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" height="25px"/>
 <img alt="JetBrains IDEs" src="https://img.shields.io/badge/-JetBrains%20IDEs-black?style=for-the-badge&logo=jetbrains" height="25px"/>
 
 \*-frameworks: <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/> <img alt="PyTorch-Lightning" src="https://img.shields.io/badge/PyTorch-Lightning-323330?style=for-the-badge&logo=Lightning&logoColor=F7DF1E%22" height="25px"/> <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React" height="25px"/>
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.js" height="25px"/>
 
 <!-- neofetch section / statistics -->
 
