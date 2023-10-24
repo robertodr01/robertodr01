@@ -65,4 +65,4 @@ I am Roberto Della Rocca, currently pursuing my master's degree in Artificial In
 # whereis robertodr01
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/robdr/)
-[![Instagram](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://instagram.com/robertodr._)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/robertodr._)
