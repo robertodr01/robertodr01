@@ -43,26 +43,26 @@ I am Roberto Della Rocca, currently pursuing my master's degree in Artificial In
 # neofetch
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=angelonazzaro&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=angelonazzaro&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=angelonazzaro&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=robertodr01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodr01&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=robertodr01&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
 
 <p align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelonazzaro&theme=tokyonight" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelonazzaro&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertodr01&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertodr01&theme=tokyonight" /> 
 </p>
 
 <p align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelonazzaro&theme=tokyonight" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelonazzaro&theme=tokyonight&utcOffset=8" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertodr01&theme=tokyonight" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertodr01&theme=tokyonight&utcOffset=8" /> 
 </p>
 
 <!-- whereis section / contacts -->
 
-# whereis angelonazzaro
+# whereis robertodr01
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelo-nazzaro-369619226/)
-[![LinkedIn](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AngeloNazzaro1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/robdr/)
+[![Instagram](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://instagram.com/robertodr._)
